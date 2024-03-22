@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.card {
+  padding: 2em;
+}
+
+.clock {
+  font-size: 100px;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.timer {
+  background-color: #ffffff20;
+  border-radius: 10px;
+}
+
